@@ -24,7 +24,7 @@
                         <ul class="menu-list">
                             <li><a href="http://imu.uiowa.edu/" target="_blank">Iowa Memorial Union</a></li>
                             <li><a href="http://pickone.uiowa.edu" target="_blank">Pick One</a></li>
-                            <li><a href="http://recserv.uiowa.edu/Apps/Default.aspx" target="_blank">Recreational Services</a></li>
+                            <li><a href="http://recserv.uiowa.edu" target="_blank">Recreational Services</a></li>
                             <li><a href="http://rvap.org" target="_blank">Rape Victim Advocacy Program</a></li>
                             <li><a href="http://osmrc.uiowa.edu" target="_blank">Sexual Misconduct Response Coordinator</a></li>
                         </ul>
@@ -32,7 +32,7 @@
                             <li><a href="http://www.uiowa.edu/sds/" target="_blank">Student Disability Services</a></li>
                             <li><a href="http://studenthealth.uiowa.edu/" target="_blank">Student Health &amp; Wellness</a></li>
                             <li><a href="http://wrac.uiowa.edu/" target="_blank">Women&rsquo;s Resource &amp; Action Center</a></li>
-                            <li><a href="http://studentlife.uiowa.edu/about/rocklin/" target="_blank">Vice President for Student Life</a></li>
+                            <li><a href="http://vp.studentlife.uiowa.edu" target="_blank">Vice President for Student Life</a></li>
                         </ul>
                     </div>
                 </li>
